@@ -4,7 +4,8 @@
 ```
 roles: dev, co founder, security researcher  
 about:  
-Almost a decade of experience in both development and cybersecurity, and a focus on creative problem solving. Lead me to develop novel and innovative tooling. And aid in my finding obscure vulnerabilities
+Almost a decade of experience in both development and cybersecurity, and a focus on creative problem solving.  
+Lead me to develop novel and innovative tooling. And aid in my finding obscure vulnerabilities.  
 ```
 
 ## proleetariat
@@ -12,7 +13,8 @@ Almost a decade of experience in both development and cybersecurity, and a focus
 roles: dev, co founder, security researcher  
 certs: EJPT  
 about:  
-proleetariat is a developer at malectrica working on our flagship product. He has 3+ years of experience in software development and while his focus only shifted to cybersecurity recently hes found bugs effecting over 130 domains.
+proleetariat is a developer at malectrica working on our flagship product. He has 3+ years of experience in software  
+ development and while his focus only shifted to cybersecurity recently hes found bugs effecting over 130 domains.  
 ```
 
 ## tahaafarooq
@@ -20,7 +22,8 @@ proleetariat is a developer at malectrica working on our flagship product. He ha
 roles: dev  
 certs: OSCP,eCPPTv2,OSWP 
 about:  
-Tahaa Farooq is a cybersecurity professional, the founder of UrchinSec and the development team lead at UrchinSec. In addition to being a developer for malectrica including on our flagship product
+Tahaa Farooq is a cybersecurity professional, the founder of UrchinSec and the development team lead at UrchinSec.
+In addition to being a developer for malectrica including on our flagship product
 ```
 
 ## doc
