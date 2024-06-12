@@ -25,7 +25,13 @@ about:
 Tahaa Farooq is a cybersecurity professional, the founder of UrchinSec and the development team lead at UrchinSec.
 In addition to being a developer for malectrica including on our flagship product
 ```
-
+## Tonabrix1 
+```
+roles: dev, security researcher
+about:  
+Professional software engineer and avid ctfer stepping into security research.
+While new to the field, Tonabrix1 has already played a significant role in malectricas discovery and disclosure of several critical vulnerabilities.
+```
 ## doc
 ```
 roles: Internal Security Audits 
