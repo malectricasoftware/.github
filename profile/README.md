@@ -1,4 +1,10 @@
-# The team  
+# The team
+## ratgpt
+```
+roles: security researcher
+about: (see quote)
+qoute: " am sewer rat. i eat cheese but i also eat other things. I hack"
+```
 ## voltaik  
 ```
 roles: dev, security researcher
