@@ -1,5 +1,11 @@
 # The team  
-
+## voltaik  
+```
+roles: dev, security researcher
+about:
+voltaik has 6 years of experience in cybersecurity. He has found vulnerabilities in several websites and forums
+he is also profficient in low level exploitation.
+``
 ## witchdoc  
 ```
 roles: dev, co founder, security researcher  
@@ -32,6 +38,7 @@ about:
 Professional software engineer and avid ctfer stepping into security research.
 While new to the field, Tonabrix1 has already played a significant role in malectricas discovery and disclosure of several critical vulnerabilities.
 ```
+
 ## doc
 ```
 roles: Internal Security Audits 
