@@ -3,7 +3,7 @@
 ```
 roles: security researcher
 about: (see quote)
-qoute: "I am sewer rat. i eat cheese but i also eat other things. I hack"
+quote: "I am sewer rat. i eat cheese but i also eat other things. I hack"
 ```
 ## voltaik  
 ```
