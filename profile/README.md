@@ -1,4 +1,10 @@
 # The team
+## zoe
+```
+roles: security researcher, dev
+about: i'm saltine or zoe, i love website hacking and i've been doing a little bit of ai stuff on the side.
+i also like psych and music. i can speak english, spanish, floridian and a little polish
+```
 ## ratgpt
 ```
 roles: security researcher
