@@ -38,7 +38,7 @@ proleetariat is a developer at malectrica working on our flagship product. He ha
 ## tahaafarooq
 ```
 roles: dev  
-certs: OSCP,eCPPTv2,OSWP 
+certs: OSCP,eCPPTv2,OSWP,CRTO
 about:  
 Tahaa Farooq is a cybersecurity professional, the founder of UrchinSec and the development team lead at UrchinSec.
 In addition to being a developer for malectrica including on our flagship product
