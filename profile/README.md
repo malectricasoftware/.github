@@ -1,4 +1,12 @@
 # The team
+
+## whisky
+```
+roles: Security researcher, alcoholic beverage
+about: Whisky or whiskey is a type of liquor made from fermented grain mash. Various grains are used
+for different varieties, including barley, corn, rye, and wheat. Whisky is typically aged in wooden casks, 
+which are typically made of charred white oak.
+```
 ## zoe
 ```
 roles: security researcher, dev
