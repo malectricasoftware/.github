@@ -1,5 +1,9 @@
 # The team
-
+## TheDoctor
+```
+roles: Security Researcher  
+about: Experienced Security Analyst, passionate about API security, novel Cross-Site Scripting Vectors and APT-related intelligence research.
+```
 ## whisky
 ```
 roles: Security researcher, alcoholic beverage
