@@ -89,3 +89,11 @@ certs: eJPT,eCPPT
 about:  
 The_Alchemist is an experienced and avid CTF player. He holds the eJPT and eCPPT certificates. His primary role in malectrica is development.
 ```
+
+## Shadowbyte
+```
+roles: security researcher, Pentester,
+about:  
+Bugbounty Security Researcher involved in disclosing multiple security vulnerabilities and expert findings in XSS.
+Hackerone Profile: https://hackerone.com/4c1dr3aper
+```
