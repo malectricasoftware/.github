@@ -92,8 +92,10 @@ The_Alchemist is an experienced and avid CTF player. He holds the eJPT and eCPPT
 
 ## Shadowbyte
 ```
-roles: security researcher, Pentester,
+roles: Web Application Security Researcher, Pentester, 
 about:  
-Bugbounty Security Researcher involved in disclosing multiple security vulnerabilities and expert findings in XSS.
+Bugbounty Security Researcher involved in disclosing multiple security vulnerabilities and expert findings in XSS. Primary Role in Malectrica is Security Research / Pentesting
 Hackerone Profile: https://hackerone.com/4c1dr3aper
+Twitter Profile: https://x.com/Shad0wH3x
+
 ```
