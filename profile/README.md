@@ -99,3 +99,9 @@ Hackerone Profile: https://hackerone.com/4c1dr3aper
 Twitter Profile: https://x.com/Shad0wH3x
 
 ```
+
+## laughtersec
+```
+roles: generalist, special
+about: Can learn, unlearn then relearn just about anything written in English, if he moves his attention to it and is fed well.
+```
