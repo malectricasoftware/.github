@@ -92,12 +92,23 @@ The_Alchemist is an experienced and avid CTF player. He holds the eJPT and eCPPT
 
 ## Shadowbyte
 ```
-roles: Web Application Security Researcher, Pentester, 
-about:  
-Bugbounty Security Researcher involved in disclosing multiple security vulnerabilities and expert findings in XSS. Primary Role in Malectrica is Security Research / Pentesting
-Hackerone Profile: https://hackerone.com/4c1dr3aper
-Twitter Profile: https://x.com/Shad0wH3x
+**Security Researcher | Pentester | Binary Exploitation Researcher**
 
+Bug bounty researcher with multiple disclosed vulnerabilities. OSCP/OSCP+ certified, OSEP track. Specializes in web application security, XSS exploitation, malware analysis, and reverse engineering.
+
+**Focus Areas:**
+- Advanced XSS exploitation & DOM-based attacks
+- Web application penetration testing
+- Binary analysis & reverse engineering
+- Malware research & detection evasion
+- Vulnerability discovery
+
+**Links:**
+- HackerOne: hackerone.com/4c1dr3aper
+- Twitter: @Shad0wH3x
+
+**Current Work:**
+Developing novel automated exploitation frameworks and researching vulnerability discovery methodologies at Malectrica. Active in CTF competitions and Pwn2Own-style binary exploitation challenges.
 ```
 
 ## laughtersec
