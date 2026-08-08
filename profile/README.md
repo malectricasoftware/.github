@@ -114,5 +114,9 @@ Developing novel automated exploitation frameworks and researching vulnerability
 ## laughtersec
 ```
 roles: generalist, special
-about: Can learn, unlearn then relearn just about anything written in English, if he moves his attention to it and is fed well.
+about: Can learn, unlearn then re-learn just about anything written in the English language if he moves his attention to it and is fed well. He's very quiet and rarely speaks when encountered in person-and he hardly laughs.
+certs: eJPT, CRTP
+focus areas: malware development and reversing, pentesting, binexp (ordered from most focused to least focused)
+other focuses: boxing, philosophy
+current work: Building a WinDbg extension that would help dynamically find various techniques used in malwares.
 ```
